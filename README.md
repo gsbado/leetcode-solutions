@@ -17,5 +17,7 @@ Repository with my practice and solutions to LeetCode challenges, implemented in
 - [Remove Duplicates from Sorted Array](easy/remove-duplicates-from-sorted-array.py)
 - [First Unique Character in a String](easy/first-unique-character-in-a-string.py)
 - [Majority Element](easy/majority-element.py)
+- [Valid Anagram](easy/valid-anagram.py)
+- [Valid Parentheses](easy/valid-parentheses.py)
 
 ## Medium
