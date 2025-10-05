@@ -19,6 +19,7 @@ Repository with my practice and solutions to LeetCode challenges, implemented in
 - [Majority Element](easy/majority-element.py)
 - [Valid Anagram](easy/valid-anagram.py)
 - [Valid Parentheses](easy/valid-parentheses.py)
+- [Ransom Note](easy/ransom-note.py)
 
 ## Medium
 - [Remove Duplicates from Sorted Array II](medium/remove-duplicates-from-sorted-array-ii.py)
