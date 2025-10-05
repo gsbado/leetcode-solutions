@@ -21,3 +21,4 @@ Repository with my practice and solutions to LeetCode challenges, implemented in
 - [Valid Parentheses](easy/valid-parentheses.py)
 
 ## Medium
+- [Remove Duplicates from Sorted Array II](medium/remove-duplicates-from-sorted-array-ii.py)
