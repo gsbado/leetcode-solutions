@@ -20,6 +20,7 @@ Repository with my practice and solutions to LeetCode challenges, implemented in
 - [Valid Anagram](easy/valid-anagram.py)
 - [Valid Parentheses](easy/valid-parentheses.py)
 - [Ransom Note](easy/ransom-note.py)
+- [Single Number](easy/single-number.py)
 - [Find the Index of the First Occurrence in a String](easy/find-the-index-of-the-first-occurrence-in-a-string.py)
 - [Roman to Integer](easy/roman-to-integer.py)
 
