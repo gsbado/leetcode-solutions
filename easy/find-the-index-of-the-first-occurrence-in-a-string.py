@@ -15,9 +15,3 @@ class Solution:
                 return i
                 
         return -1
-
-
-#another solution using find:
-#class Solution:
-#    def strStr(self, haystack: str, needle: str) -> int:
-#        return haystack.find(needle)
