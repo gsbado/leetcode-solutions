@@ -8,21 +8,21 @@ Repository with my practice and solutions to LeetCode challenges, implemented in
 - `hard/` - Hard level problems
 
 ## Easy
-- [Two Sum](easy/two-sum.py)
-- [Merge Sorted Array](easy/merge-sorted-array.py)
-- [Valid Palindrome](easy/valid-palindrome.py)
-- [Palindrome Number](easy/palindrome-number.py)
-- [Shortest Distance to a Character](easy/shortest-distance-to-a-character.py)
-- [Remove Element](easy/remove-element.py)
-- [Remove Duplicates from Sorted Array](easy/remove-duplicates-from-sorted-array.py)
+- [Find the Index of the First Occurrence in a String](easy/find-the-index-of-the-first-occurrence-in-a-string.py)
 - [First Unique Character in a String](easy/first-unique-character-in-a-string.py)
 - [Majority Element](easy/majority-element.py)
-- [Valid Anagram](easy/valid-anagram.py)
-- [Valid Parentheses](easy/valid-parentheses.py)
+- [Merge Sorted Array](easy/merge-sorted-array.py)
+- [Palindrome Number](easy/palindrome-number.py)
 - [Ransom Note](easy/ransom-note.py)
-- [Single Number](easy/single-number.py)
-- [Find the Index of the First Occurrence in a String](easy/find-the-index-of-the-first-occurrence-in-a-string.py)
+- [Remove Duplicates from Sorted Array](easy/remove-duplicates-from-sorted-array.py)
+- [Remove Element](easy/remove-element.py)
 - [Roman to Integer](easy/roman-to-integer.py)
+- [Shortest Distance to a Character](easy/shortest-distance-to-a-character.py)
+- [Single Number](easy/single-number.py)
+- [Two Sum](easy/two-sum.py)
+- [Valid Anagram](easy/valid-anagram.py)
+- [Valid Palindrome](easy/valid-palindrome.py)
+- [Valid Parentheses](easy/valid-parentheses.py)
 
 ## Medium
 - [Remove Duplicates from Sorted Array II](medium/remove-duplicates-from-sorted-array-ii.py)
